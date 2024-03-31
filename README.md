@@ -1,2 +1,2 @@
 # Currency-Converter
-Exercice project on GitHub using Vue.js
+A first project to tast my skills on JS and using Vue.js. It is a dynamic currency converter.
